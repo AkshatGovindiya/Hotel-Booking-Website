@@ -1,0 +1,9 @@
+label{
+    font-weight: 700;
+}
+form input{
+    margin: 2px;
+}
+form .form-group select{
+    background-color: rgb(201, 245, 245);
+}
